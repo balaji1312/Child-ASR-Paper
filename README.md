@@ -24,6 +24,15 @@ A curated list of papers and resources for children's automatic speech recogniti
 
 ## Papers
 
+### Interspeech 2024
+- [Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models](https://www.isca-archive.org/interspeech_2024/fan24b_interspeech.html)
+- [Shared-Adapters: A Novel Transformer-based Parameter Efficient Transfer Learning Approach For Children’s Automatic Speech Recognition](https://www.isca-archive.org/interspeech_2024/rolland24b_interspeech.html)
+- [Mixed Children/Adult/Childrenized Fine-Tuning for Children’s ASR: How to Reduce Age Mismatch and Speaking Style Mismatch](https://www.isca-archive.org/interspeech_2024/graave24_interspeech.html)
+- [Improving child speech recognition with augmented child-like speech](https://www.isca-archive.org/interspeech_2024/zhang24d_interspeech.html)
+- [Self-Supervised Models for Phoneme Recognition: Applications in Children's Speech for Reading Learning](https://www.isca-archive.org/interspeech_2024/blockmedin24_interspeech.html)
+- [Children’s Speech Recognition through Discrete Token Enhancement](https://www.isca-archive.org/interspeech_2024/sukhadia24_interspeech.html)
+
+
 ### ICASSP 2024 - updated in 4/1/2024
 - [Automatic Speech Recognition Tuned for Child Speech in the Classroom](https://ieeexplore.ieee.org/document/10447428)
 - [Improved Children’s Automatic Speech Recognition Combining Adapters and Synthetic Data Augmentation](https://ieeexplore.ieee.org/document/10446889)
@@ -34,6 +43,8 @@ A curated list of papers and resources for children's automatic speech recogniti
 - SASB workshop [SOA: Reducing domain mismatch in SSL Pipeline by Speech Only Adaptation for low resource ASR](https://www.seas.ucla.edu/spapl/paper/SOA-icassp-workshop.pdf)
 
 ### Normalization and Data Augmentation
+- Arxiv 2024 - [Evaluation of state-of-the-art ASR Models in Child-Adult Interactions](https://arxiv.org/abs/2409.16135)
+- Journal of Electrical Systems 2024 - [SVCGAN: Speaker Voice Conversion Generative Adversarial Network for Children's Speech Conversion and Recognition](https://www.proquest.com/scholarly-journals/svcgan-speaker-voice-conversion-generative/docview/3074174582/se-2?accountid=14512)
 - JASA 2024 - [ChildAugment: Data Augmentation Methods for Zero-Resource Children's Speaker Verification](https://arxiv.org/abs/2402.15214)
 - Interspeech 2023 - [Data augmentation for children ASR and child-adult speaker classification using voice conversion methods](https://www.isca-archive.org/interspeech_2023/zhao23c_interspeech.html)
 - ICASSP 2023 - [Using Modified Adult Speech as Data Augmentation for Child Speech Recognition](https://ieeexplore.ieee.org/abstract/document/10094966?casa_token=eDn4effx8JoAAAAA:skz-YShAgfIGFn4s_nUpKjFIYXwBH7JDR5kSM7QUzZq5c3wFIYqHmTO0SHwvyLSQP0p-T1Tz)
@@ -50,7 +61,9 @@ Interspeech 2019 - [A Frequency Normalization Technique for Kindergarten Speech 
 - Interspeech 2016 - [Improving Children’s Speech Recognition through Out-of-Domain Data Augmentation](http://www.cstr.inf.ed.ac.uk/downloads/publications/2016/master.pdf)
 
 ### Pretraining + Finetuning
-- IEEE Acess 2024 - [Exploring Native and Non-Native English Child Speech Recognition With Whisper](https://ieeexplore.ieee.org/abstract/document/10474352)
+ - Arxiv 2024 - [Continued Pretraining for Domain Adaptation of Wav2vec2.0 in Automatic Speech Recognition for Elementary Math Classroom Settings](https://arxiv.org/abs/2405.13018)
+- IEEE/ACM TASLP 2024 - [Effect of Modeling Glottal Activity Parameters on Zero-Shot Children's ASR](https://ieeexplore.ieee.org/abstract/document/10542409)
+- IEEE Access 2024 - [Exploring Native and Non-Native English Child Speech Recognition With Whisper](https://ieeexplore.ieee.org/abstract/document/10474352)
 - Arxiv 2023 - [Kid-Whisper: Towards Bridging the Performance Gap in Automatic Speech Recognition for Children VS. Adults](https://arxiv.org/abs/2309.07927)
 - Interspeech 2023 - [Adaptation of Whisper models to child speech recognition](https://arxiv.org/abs/2307.13008)
 - Under-review Speech Communication 2022 - [Improving Children's Speech Recognition by Fine-tuning Self-supervised Adult Speech Representations](https://arxiv.org/abs/2211.07769)
@@ -64,6 +77,11 @@ Interspeech 2019 - [A Frequency Normalization Technique for Kindergarten Speech 
 
 
 ### Other topics
+ - Augmentative and Alternative Communication 2024 - [The development of synthetic child speech in three South African languages](https://www.tandfonline.com/doi/pdf/10.1080/07434618.2024.2374312)
+ - Arxiv 2024 - [Data Efficient Child-Adult Speaker Diarization with Simulated Conversations](https://arxiv.org/pdf/2409.08881)
+- Speech Communication 2024 - [Automatic speaker and age identification of children from raw speech using sincNet over ERB scale](https://www.sciencedirect.com/science/article/abs/pii/S0167639324000414)
+- Arxiv 2024 - [Personalized Speech Recognition for Children with Test-Time Adaptation](https://arxiv.org/abs/2409.13095)
+- SN Computer Science 2024 - [nvestigating Lattice-Free Acoustic Modeling for Children Automatic Speech Recognition in Low-Resource Settings Under Mismatched Conditions](https://link.springer.com/article/10.1007/s42979-024-02846-w)
 - ASRU 2023 - [No Pitch Left Behind: Addressing Gender Unbalance In Automatic Speech Recognition Through Pitch Manipulation](https://arxiv.org/abs/2310.06590)
 - SLT 2022 - [A Zero-Shot Approach to Identifying Children's Speech in Automatic Gender Classification](https://ieeexplore.ieee.org/abstract/document/10023121?casa_token=4FZWdp0UYLsAAAAA:HGg90fdpN0hfneDU_P2RRtY5gLOWI2gKu9g8KaTgtSZgDWPLaBoIK1L1OZbntiHQE8zWIC08)
 - ICASSP 2022 - [Towards Better Meta-Initialization with Task Augmentation for Kindergarten-aged Speech Recognition](https://arxiv.org/abs/2202.12326)
