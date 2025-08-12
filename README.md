@@ -19,8 +19,6 @@ A curated list of papers and resources for children's automatic speech recogniti
 - [PF-STAR](http://www.thespeechark.com/pf-star-page.html)
   - Age: 4-14 years old
 - [The CMU Kids Corpus](https://catalog.ldc.upenn.edu/LDC97S63)
-- [The Ohio Child Speech Corpus](https://www.sciencedirect.com/science/article/pii/S0167639325000214)
-- [Playlogue: Dataset and Benchmarks for Analyzing Adult-Child Conversations During Play](https://dl.acm.org/doi/pdf/10.1145/3699775)
 - [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_children%27s_speech_corpora)
 
 
@@ -38,6 +36,9 @@ A curated list of papers and resources for children's automatic speech recogniti
 - [Exploring the Role of Data Augmentation and Acoustic Feature Concatenation in the Context of Zero-Resource Children’s ASR](https://link.springer.com/article/10.1007/s00034-024-02896-8)
 - [Causal analysis of ASR errors for children: Quantifying the impact of physiological, cognitive, and extrinsic factors](https://www.sciencedirect.com/science/article/pii/S0885230825000841)
 - [Investigating Further Fine-tuning Wav2vec2.0 in Low Resource Settings for Enhancing Children Speech Recognition and Word-level Reading Diagnosis](https://aclanthology.org/2025.aaas-1.1.pdf)
+- [The Ohio Child Speech Corpus](https://www.sciencedirect.com/science/article/pii/S0167639325000214)
+- [Playlogue: Dataset and Benchmarks for Analyzing Adult-Child Conversations During Play](https://dl.acm.org/doi/pdf/10.1145/3699775)
+- [The JIBO Kids Corpus: A speech dataset of child-robot interactions in a classroom environment](https://pubs.aip.org/asa/jel/article/4/11/115201/3318582)
 
 
 ### Interspeech 2024
