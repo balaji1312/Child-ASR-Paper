@@ -19,10 +19,26 @@ A curated list of papers and resources for children's automatic speech recogniti
 - [PF-STAR](http://www.thespeechark.com/pf-star-page.html)
   - Age: 4-14 years old
 - [The CMU Kids Corpus](https://catalog.ldc.upenn.edu/LDC97S63)
+- [The Ohio Child Speech Corpus](https://www.sciencedirect.com/science/article/pii/S0167639325000214)
+- [Playlogue: Dataset and Benchmarks for Analyzing Adult-Child Conversations During Play](https://dl.acm.org/doi/pdf/10.1145/3699775)
 - [Wikipedia Page](https://en.wikipedia.org/wiki/List_of_children%27s_speech_corpora)
 
 
 ## Papers
+
+### July 2025 Update
+- [Selective Attention Merging for low resource tasks: A case study of Child ASR](https://ieeexplore.ieee.org/abstract/document/10887889)
+- [CPT-Boosted Wav2vec2.0: Towards Noise Robust Speech Recognition for Classroom Environments](https://ieeexplore.ieee.org/abstract/document/10890830)
+- [Exploring discrete speech units for privacy-preserving and efficient speech recognition for school-aged and preschool children](https://www.sciencedirect.com/science/article/pii/S1071581925000175)
+- [Improving End-to-End Models for Children’s Speech Recognition](https://www.mdpi.com/2076-3417/14/6/2353)
+- [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives](https://ieeexplore.ieee.org/abstract/document/10889916)
+- [Automatic Speech Recognition for Children: A Systematic Review of Models, Toolkits, and Adaptations](https://sol.sbc.org.br/index.php/wei/article/view/36154)
+- [AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup](https://ieeexplore.ieee.org/abstract/document/10889725)
+- [Towards Better Recognition of Spontaneous Children's Speech: Speaker-Clustering Fine-Tuning of Whisper](https://ieeexplore.ieee.org/abstract/document/10734799)
+- [Exploring the Role of Data Augmentation and Acoustic Feature Concatenation in the Context of Zero-Resource Children’s ASR](https://link.springer.com/article/10.1007/s00034-024-02896-8)
+- [Causal analysis of ASR errors for children: Quantifying the impact of physiological, cognitive, and extrinsic factors](https://www.sciencedirect.com/science/article/pii/S0885230825000841)
+- [Investigating Further Fine-tuning Wav2vec2.0 in Low Resource Settings for Enhancing Children Speech Recognition and Word-level Reading Diagnosis](https://aclanthology.org/2025.aaas-1.1.pdf)
+
 
 ### Interspeech 2024
 - [Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models](https://www.isca-archive.org/interspeech_2024/fan24b_interspeech.html)
