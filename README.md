@@ -24,6 +24,23 @@ A curated list of papers and resources for children's automatic speech recogniti
 
 ## Papers
 
+### October 2025 Update
+- [CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR](https://www.isca-archive.org/interspeech_2025/balajishankar25_interspeech.html)
+- [Examining Test-Time Adaptation for Personalized Child Speech Recognition](https://www.isca-archive.org/interspeech_2025/shi25h_interspeech.html)
+- [On Enhancing the Performance of Children's ASR Task in Limited Data Scenario](https://www.isca-archive.org/interspeech_2025/ankita25_interspeech.html)
+- [Large Language Models based ASR Error Correction for Child Conversations](https://www.isca-archive.org/interspeech_2025/xu25g_interspeech.html)
+- [Why is children's ASR so difficult? Analyzing children's phonological error patterns using SSL-based phoneme recognizers](https://www.isca-archive.org/interspeech_2025/horii25_interspeech.html)
+- [Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence](https://www.isca-archive.org/interspeech_2025/ahadzi25_interspeech.html)
+- [Exploring Shared-Weight Mechanisms in Transformer and Conformer Architectures for Automatic Speech Recognition](https://www.isca-archive.org/interspeech_2025/rolland25_interspeech.html)
+- [Causal Structure Discovery for Error Diagnostics of Children's ASR](https://www.isca-archive.org/interspeech_2025/pratapsingh25_interspeech.html)
+- [Beyond Traditional Speech Modifications : Utilizing Self Supervised Features for Enhanced Zero-Shot Children ASR](https://www.isca-archive.org/interspeech_2025/sinha25_interspeech.html)
+- [Benchmarking Training Paradigms, Dataset Composition, and Model Scaling for Child ASR in ESPnet](https://www.isca-archive.org/wocci_2025/ying25_wocci.html)
+- [Enhancing Child-Adult Directed Speech: ASR for Progress Monitoring in Preschool Settings](https://www.isca-archive.org/wocci_2025/lileikyte25_wocci.html)
+- [Evaluation of Speech Foundation Models for ASR on Child-Adult Conversations in Autism Diagnostic Sessions](https://www.isca-archive.org/wocci_2025/asvin25_wocci.html)
+- [Personalised Children's Automatic Speech Recognition using Text-To-Speech](https://www.isca-archive.org/wocci_2025/rolland25_wocci.html)
+- [Adapting Whisper for Lightweight and Efficient Automatic Speech Recognition of Children for On-device Edge Applications](https://www.isca-archive.org/wocci_2025/dutta25_wocci.html)
+- [Layer-Wise Analysis of Self-Supervised Representations for Age and Gender Classification in Children's Speech](https://www.isca-archive.org/wocci_2025/sinha25_wocci.html)
+
 ### July 2025 Update
 - [Selective Attention Merging for low resource tasks: A case study of Child ASR](https://ieeexplore.ieee.org/abstract/document/10887889)
 - [CPT-Boosted Wav2vec2.0: Towards Noise Robust Speech Recognition for Classroom Environments](https://ieeexplore.ieee.org/abstract/document/10890830)
@@ -112,7 +129,13 @@ Interspeech 2019 - [A Frequency Normalization Technique for Kindergarten Speech 
 
 ## Special Sessions
 - [Connecting Speech science and Speech technology for Children’s Speech](https://sites.google.com/view/sciencetech4childspeech-is24/home)
-  - Interspeech 2023, Interspeech 2024
+  - Interspeech 2023, Interspeech 2024, Interspeech 2025
+- [Workshop on Child Computer Interaction](https://sites.google.com/view/wocci-isca-is25)
+  - Satellite workshop of Interspeech 2025
+- [Workshop on Speech and Language Technology in Education (SLaTE)](https://sites.google.com/view/slate-2025/home)
+  - Satellite workshop of Interspeech
+- [AI for Children's Speech and Language](https://asru-ai4csl.github.io/Official-Website/)
+  - ASRU 2025 Satellite Workshop
 - [MERLIon CCS Challenge: Language Identification on Code-Switched Child-Directed Speech](https://sites.google.com/view/merlion-ccs-challenge)
   - Interspeech 2023
 - [ETLT 2021: Shared Task on ASR for Non-Native Children's Speech](https://www.isca-archive.org/interspeech_2021/gretter21_interspeech.html)
