@@ -24,6 +24,20 @@ A curated list of papers and resources for children's automatic speech recogniti
 
 ## Papers
 
+### July 2026 Update
+- [Advancing Pediatric ASR: The Role of Voice Generation in Disordered Speech](https://www.isca-archive.org/interspeech_2025/rosero25_interspeech.html)
+- [A semi-automatic pipeline for transcribing and segmenting child speech](https://www.isca-archive.org/interspeech_2025/christodoulidou25_interspeech.html)
+- [ASR-based segmentation for the analysis of larger child-speech datasets: Performance evaluation on vowels from Australian-English speaking children aged 4 to 11 years](https://www.isca-archive.org/interspeech_2025/cai25_interspeech.html)
+- [Bridging the Gap in Children’s Speech Recognition: Zero-Speech Approaches with Speech Modifications and ASR Architectures](https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0000351.pdf)
+- [Group-Aware Partial Model Merging for Children's Automatic Speech Recognition](https://arxiv.org/abs/2511.23098)
+- [Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR](https://arxiv.org/abs/2512.03301)
+- [TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition](https://arxiv.org/abs/2512.18263)
+- [KidSpeak: A General Multi-purpose LLM for Kids' Speech Recognition and Screening](https://arxiv.org/abs/2512.05994)
+- [Mind the Shift: Using Delta SSL Embeddings to Enhance Child ASR](https://arxiv.org/abs/2601.20142)
+- [A study on the layer-wise transferability of self-supervised learning features for children’s speech processing tasks](https://doi.org/10.1016/j.specom.2026.103392)
+- [Exploring LoRA variants to adapt Whisper models for robust recognition of children's speech](https://doi.org/10.1016/j.specom.2026.103408)
+- [Age-Aware Adapter Tuning for Children's Speech Recognition](https://arxiv.org/abs/2606.05440)
+
 ### October 2025 Update
 - [CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR](https://www.isca-archive.org/interspeech_2025/balajishankar25_interspeech.html)
 - [Examining Test-Time Adaptation for Personalized Child Speech Recognition](https://www.isca-archive.org/interspeech_2025/shi25h_interspeech.html)
