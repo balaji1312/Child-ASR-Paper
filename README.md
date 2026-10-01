@@ -24,6 +24,18 @@ A curated list of papers and resources for children's automatic speech recogniti
 
 ## Papers
 
+### September 2026 Update
+- [Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR](https://www.isca-archive.org/interspeech_2026/shi26c_interspeech.html)
+- [Gumbel-BEARD: Automatic Layer Selection for Self-Supervised Adaptation of Whisper in Low-Resource Domains](https://www.isca-archive.org/interspeech_2026/wang26o_interspeech.html)
+- [Error Diversity and Performance Variability in Zero-Shot Children's Speech Recognition](https://www.isca-archive.org/interspeech_2026/sinha26b_interspeech.html)
+- [BabAR: from phoneme recognition to developmental measures of young children's speech production](https://www.isca-archive.org/interspeech_2026/lavechin26_interspeech.html)
+- [PhonLLM: Joint Phone Recognition and Phonological Process Inference for Child Speech](https://www.isca-archive.org/interspeech_2026/baumann26_interspeech.html)
+- [GC-LoRA: Gated Convolutional LoRA for Parameter-Efficient Acoustic Adaptation](https://www.isca-archive.org/interspeech_2026/shankar26_interspeech.html)
+- [How does children's pronunciation develop? Capturing syllabic change with children's growth using unsupervised syllable discovery](https://www.isca-archive.org/interspeech_2026/horii26_interspeech.html)
+- [Correct Then Detect: Zero-Shot FVMC Annotation for Child Language Sample Analysis](https://www.isca-archive.org/interspeech_2026/hou26b_interspeech.html)
+- [BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://www.isca-archive.org/interspeech_2026/charlot26_interspeech.html)
+- [Reasoning Beyond Transcription: Audio Language Models on Child Stuttering Speech](https://www.isca-archive.org/interspeech_2026/okocha26_interspeech.html)
+
 ### July 2026 Update
 - [Advancing Pediatric ASR: The Role of Voice Generation in Disordered Speech](https://www.isca-archive.org/interspeech_2025/rosero25_interspeech.html)
 - [A semi-automatic pipeline for transcribing and segmenting child speech](https://www.isca-archive.org/interspeech_2025/christodoulidou25_interspeech.html)
